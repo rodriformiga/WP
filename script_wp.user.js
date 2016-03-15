@@ -1,5 +1,5 @@
 // ==UserScript==
-// @id          Melhoria WP@https://github.com/rodriformiga/WP
+// @id          Melhoria_WP@https://github.com/rodriformiga/WP
 // @name        Melhoria WPP
 // @namespace   https://github.com/rodriformiga/WP
 // @description Melhoria WPP
