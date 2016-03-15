@@ -33,3 +33,6 @@
 // @grant          GM_setValue
 // @grant          GM_getValue
 // ==/UserScript==
+/* global unsafeWindow */
+
+alert(teste);
