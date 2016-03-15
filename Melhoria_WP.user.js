@@ -34,4 +34,4 @@
 // @grant          GM_getValue
 // ==/UserScript==
 
-alert(teste);
+alert('teste');
