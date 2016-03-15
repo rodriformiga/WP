@@ -1,8 +1,8 @@
 // ==UserScript==
 // @id          Melhoria_WP@https://github.com/rodriformiga/WP
-// @name        Melhoria WPP
+// @name        MelhoriaWPP
 // @namespace   https://github.com/rodriformiga/WP
-// @description Melhoria WPP
+// @description MelhoriaWPP
 // @author      Rodrigo Pan
 // @copyright   2016, rodriformiga
 // @license     GNU GPLv3
