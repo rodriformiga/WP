@@ -6,15 +6,15 @@
 // @author      Rodrigo Pan
 // @copyright   2016, rodriformiga
 // @license     GNU GPLv3
-// @homepage    https://github.com/rodriformiga/WP/tree/master/Github_Comment_Enhancer#readme
-// @homepageURL https://github.com/rodriformiga/WP/tree/master/Github_Comment_Enhancer#readme
-// @downloadURL https://github.com/rodriformiga/WP/raw/master/Github_Comment_Enhancer/Github_Comment_Enhancer.user.js
-// @updateURL   https://github.com/rodriformiga/WP/raw/master/Github_Comment_Enhancer/Github_Comment_Enhancer.user.js
+// @homepage    https://github.com/rodriformiga/WP
+// @homepageURL https://github.com/rodriformiga/WP#readme
+// @downloadURL https://github.com/rodriformiga/WP/raw/master/script_wp.user.js
+// @updateURL   https://github.com/rodriformiga/WP/raw/master/script_wp.user.js
 // @supportURL  https://github.com/rodriformiga/WP/issues
 // @contributionURL https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VCYMHWQ7ZMBKW
-// @version     1.0.0
-// @icon        https://github.com/fluidicon.png
-// @run-at      document-end
+// @version         1.0.0
+// @icon            https://github.com/fluidicon.png
+// @run-at          document-end
 // @include        http://app3*:8081/wpp/servlet/hnuc010
 // @include        http://app3*:8081/wpp/servlet/hnuc011*
 // @include        http://app3*:8081/wpp/servlet/tsol080*
